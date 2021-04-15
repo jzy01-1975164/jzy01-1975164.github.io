@@ -25,12 +25,14 @@ a{
 	text-align: center;
 	background-color: #8E41D5;
 }
-#Header h1{
-	font-size: 60px;
-	font-family: "Passion One";
-	color: #FFBC00;
-	font-weight: bold;
+
+#Header h1{
+    font-size: 60px;
+    font-family:"Passion One";
+    color:#FFBC00;
+    font-weight: bold;
 }
+
 #LeftNav{
 	width: 400px;
 	margin-left: auto;
