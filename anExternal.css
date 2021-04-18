@@ -1,0 +1,134 @@
+body{
+	background-image: url('image/giphy.gif');
+	  background-position: center;
+	  background-repeat: no-repeat;
+	  background-size: cover;
+	  background-color: transparent;
+}
+
+#Header{
+	width: 750px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 10px;
+	border: solid 8px black;
+	text-align: center;
+	background: rgba(225, 225, 225, 0.6);
+}
+
+p.Header_1 {
+    font-size: 60px;
+    font-family:Verdana;
+    color:#3F3FBF;
+    font-weight: bold;
+}
+span.Header_2 {
+    font-size: 60px;
+    font-family: Verdana;
+    font-style: italic;
+    color:#BF3FBF;
+    font-weight: bold;
+}
+
+#Introduction{
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 10px;
+	border: solid 8px black;
+	background: rgba(0, 0, 0, 0.6);
+}
+
+#p1{
+	color: white;
+	font-family: "oblique";
+	font-size: 40px;
+}
+
+#p2{
+	color: white;
+	font-family: "Book Antiqua";
+	font-size: 20px;
+}
+
+ul{
+	list-style-type: none;
+	padding-left: 0px;
+	}
+
+#Left{
+	width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 10px;
+	border: solid 8px black;
+	float: left;
+	text-align: center;
+	padding-bottom: 8px;
+	background: rgba(225, 225, 225, 0.6);
+}
+
+#right{
+	width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 10px;
+	border: solid 8px black;
+	float: right;
+	text-align: center;
+	padding-bottom: 8px;
+	background: rgba(225, 225, 225, 0.6);
+}
+
+#rcorners {
+  border-radius: 20px;
+  background: url(image/swirl_pattern.png);
+  background-position: center;
+  background-repeat: repeat;
+  padding: 20px; 
+  width: 450px;
+  height: 250px;  
+}
+
+#Content{
+	width: 700px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 10px;
+	border: solid 8px black;
+	text-align: center;
+	padding: 15px;
+	background: rgba(0, 0, 0, 0.6);
+
+}
+#Footer{
+	width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 10px;
+	border: solid 8px black;
+	text-align: center;
+	background: rgba(225, 225, 225, 0.6);  
+}
+
+#h3footer {
+	color: #A858F2;
+	font-size: 40PX;
+	font-family: "Passion One";
+	margin-bottom: 0px;
+}
+
+#buybox{
+	width: 200px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 5px;
+	border: solid 2px black;
+	background: rgba(0, 0, 0, 0.6);
+}
+
+#buyoption {
+	color: white;
+	font-family: "Book Antiqua";
+	font-size: 20px;
+}
