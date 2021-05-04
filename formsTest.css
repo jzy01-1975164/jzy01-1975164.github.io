@@ -1,0 +1,57 @@
+body{
+    background-image: url('sakura.png');
+}
+
+  form {
+    border: 0.1em solid #ccc;
+    border-radius: 0.5em;
+    width: 103em;
+    background: rgb(191, 63, 112, 0.3);
+    padding: 2em;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+h1 {
+    font-family: Verdana;
+    font-size: 50px; 
+    text-align: center;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    border: solid 15px;
+    border-style: inset;
+    border-color: skyblue;
+    text-shadow: 0 0 3px black;
+    background-color: lightgrey;
+}
+legend {
+    font-weight: bold;
+    font-family: "oblique";
+    font-size: 30px; 
+    font-style: italic;
+    padding: 5px 10px;
+    background-color: gray;
+    margin-bottom: 10px;
+}
+fieldset {
+    width: 100em;                            
+    border-radius: 0.5em;                   
+    border: 0.1em solid #ccc;                   
+    box-shadow: 0.08em 0.05em 0.08em #ccc;  
+    margin-bottom: 2em;
+    background: rgb(63, 93, 191, 0.5);
+}
+
+label {
+    font-size: 20px;
+    color: white;
+}
+
+ul{
+    list-style-type: none;
+    padding-left: 0px;
+    font-size: 20px;
+    color: white;
+}
